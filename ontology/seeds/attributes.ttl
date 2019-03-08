@@ -1,0 +1,73 @@
+@prefix ol:    <http://openlegendrpg.com/ontology#> .
+
+<ol:Prescience>  a  ol:nameIs ;
+        ol:textIs  "See the future, read minds or auras, view from afar, detect magic or evil, communicate with extraplanar entities" ;
+        ol:typeIs  "Extraordinary" .
+
+<ol:Influence>  a  ol:nameIs ;
+        ol:textIs  "Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility" ;
+        ol:typeIs  "Extraordinary" .
+
+<ol:Will>  a       ol:nameIs ;
+        ol:textIs  "Maintain your resolve, resist torture, study long hours, stay awake on watch, stave off insanity" ;
+        ol:typeIs  "Mental" .
+
+<ol:Energy>  a     ol:nameIs ;
+        ol:textIs  "Create and control the elements—fire, cold, electricity" ;
+        ol:typeIs  "Extraordinary" .
+
+<ol:Entropy>  a    ol:nameIs ;
+        ol:textIs  "Disintegrate matter, kill with a word, create undead, sicken others" ;
+        ol:typeIs  "Extraordinary" .
+
+<ol:Protection>  a  ol:nameIs ;
+        ol:textIs  "Protect from damage, break supernatural influence, dispel magic, exile extradimensional beings" ;
+        ol:typeIs  "Extraordinary" .
+
+<ol:Agility>  a    ol:nameIs ;
+        ol:textIs  "Dodge attacks, move with stealth, perform acrobatics, shoot a bow, pick a pocket" ;
+        ol:typeIs  "Physical" .
+
+<ol:Movement>  a   ol:nameIs ;
+        ol:textIs  "Teleport, fly, hasten, telekinetically push" ;
+        ol:typeIs  "Extraordinary" .
+
+<ol:Alteration>  a  ol:nameIs ;
+        ol:textIs  "Change shape, alter molecular structures, transmute one material into another" ;
+        ol:typeIs  "Extraordinary" .
+
+<ol:Perception>  a  ol:nameIs ;
+        ol:textIs  "Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door" ;
+        ol:typeIs  "Mental" .
+
+<ol:Logic>  a      ol:nameIs ;
+        ol:textIs  "Innovate a new crafting method, decipher a code, jury-rig a device, get the gist of a language you don't speak" ;
+        ol:typeIs  "Mental" .
+
+<ol:Might>  a      ol:nameIs ;
+        ol:textIs  "Swing a maul, jump over a chasm, break down a door, wrestle a foe to submission" ;
+        ol:typeIs  "Physical" .
+
+<ol:Persuasion>  a  ol:nameIs ;
+        ol:textIs  "Negotiate a deal, convince someone, haggle a good price, pry information" ;
+        ol:typeIs  "Social" .
+
+<ol:Presence>  a   ol:nameIs ;
+        ol:textIs  "Give a speech, sing a song, inspire an army, exert your force of personality, have luck smile upon you" ;
+        ol:typeIs  "Social" .
+
+<ol:Learning>  a   ol:nameIs ;
+        ol:textIs  "Recall facts about history, arcane magic, the natural world, or any information you picked up from an external source" ;
+        ol:typeIs  "Mental" .
+
+<ol:Creation>  a   ol:nameIs ;
+        ol:textIs  "Channel higher powers, manifest something from nothing, regenerate, divinely bolster" ;
+        ol:typeIs  "Extraordinary" .
+
+<ol:Deception>  a  ol:nameIs ;
+        ol:textIs  "Tell a lie, bluff at cards, disguise yourself, spread rumors, swindle a sucker" ;
+        ol:typeIs  "Social" .
+
+<ol:Fortitude>  a  ol:nameIs ;
+        ol:textIs  "Resist poison, shrug off pain, survive in a desert, wear heavy armor" ;
+        ol:typeIs  "Physical" .
